@@ -1,5 +1,7 @@
 # dmc-2026-code
-Code example to the DMC 2026 Paper: From Optimization to Reasoning: An Agentic Approach to Component Placement for PCB Layout
+Code example to the DMC 2026 Paper: 
+
+**From Optimization to Reasoning: An Agentic Approach to Component Placement for PCB Layout**
 
 
 ## KiCAD Installation
