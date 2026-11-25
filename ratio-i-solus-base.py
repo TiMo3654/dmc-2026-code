@@ -398,7 +398,7 @@ if __name__ == "__main__":
 
     for i in range(10):
 
-        path = <<PATH>>
+        path = <PATH> # path to .kicad_pro file
 
         result = asyncio.run(
                             agent_session(
